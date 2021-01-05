@@ -62,7 +62,6 @@ class ViewController: UIViewController {
                 print("You entered wrong operation!")
             }
         }else {
-            print("bad input")
             resultLabel.text = "Please enter a valid input"
         }
         
